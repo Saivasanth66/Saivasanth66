@@ -1,9 +1,9 @@
-## Hi there 👋
+## About Me: 👋
 
 
-**Saivasanth66/Saivasanth66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on Data Science projects involving Python — building pipelines, analyzing datasets, and creating visualizations.
 - 🌱 I’m currently learning Open-source Python or Data Science projects, Kaggle competitions, and real-world data analysis challenges.
@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can spend hours exploring a dataset and still find it exciting — data always has a story to tell!
---># 💫 About Me:
- -🔭 I’m currently working on Data Science projects involving Python — building pipelines, analyzing datasets, and creating visualizations.<br>- 🌱 I’m currently learning Machine Learning, Deep Learning, and expanding my Python skills with libraries like Scikit-learn, Pandas, and TensorFlow and real-world data analysis challenges.<br>- 👯 I’m looking to collaborate on Advanced Machine Learning concepts, MLOps, and deploying data science models to production.<br>- 💬 Ask me about Python, Data Analysis, Data Visualization, Pandas, NumPy, and SQL.<br>- ⚡ Fun fact: I can spend hours exploring a dataset and still find it exciting — data always has a story to tell!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vasanth.shetty_53/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-vasanth-srungarapu-373550282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saivasanth9701@gmail.com) 
