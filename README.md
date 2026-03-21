@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can spend hours exploring a dataset and still find it exciting — data always has a story to tell!
 --># 💫 About Me:
- 🔭 I’m currently working on Data Science projects involving Python — building pipelines, analyzing datasets, and creating visualizations.<br>Open-source Python or Data Science projects, Kaggle competitions, and real-world data analysis challenges.<br>Advanced Machine Learning concepts, MLOps, and deploying data science models to production.<br>Machine Learning, Deep Learning, and expanding my Python skills with libraries like Scikit-learn, Pandas, and TensorFlow.<br>Python, Data Analysis, Data Visualization, Pandas, NumPy, and anything related to Data Science.<br>I can spend hours exploring a dataset and still find it exciting — data always has a story to tell!
+ -🔭 I’m currently working on Data Science projects involving Python — building pipelines, analyzing datasets, and creating visualizations.<br>- 🌱 I’m currently learning Open-source Python or Data Science projects, Kaggle competitions, and real-world data analysis challenges.<br>Advanced Machine Learning concepts, MLOps, and deploying data science models to production.<br>Machine Learning, Deep Learning, and expanding my Python skills with libraries like Scikit-learn, Pandas, and TensorFlow.<br>Python, Data Analysis, Data Visualization, Pandas, NumPy, and anything related to Data Science.<br>I can spend hours exploring a dataset and still find it exciting — data always has a story to tell!
 
 
 ## 🌐 Socials:
