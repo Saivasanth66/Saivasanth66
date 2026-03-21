@@ -1,17 +1,11 @@
 ## About Me: 👋
 
 
-
-
-
-
 - 🔭 I’m currently working on Data Science projects involving Python — building pipelines, analyzing datasets, and creating visualizations.
 - 🌱 I’m currently learning Open-source Python or Data Science projects, Kaggle competitions, and real-world data analysis challenges.
 - 👯 I’m looking to collaborate on Advanced Machine Learning concepts, MLOps, and deploying data science models to production.
 - 🤔 I’m looking for help with Machine Learning, Deep Learning, and expanding my Python skills with libraries like Scikit-learn, Pandas, and TensorFlow.
 - 💬 Ask me about Python, Data Analysis, Data Visualization, Pandas, NumPy, and anything related to Data Science.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I can spend hours exploring a dataset and still find it exciting — data always has a story to tell!
 
 ## 🌐 Socials:
